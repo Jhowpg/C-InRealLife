@@ -1,0 +1,7 @@
+C:\Repository\projetoCsharp\ZatecAulas\bin\Debug\ZatecAulas.exe.config
+C:\Repository\projetoCsharp\ZatecAulas\bin\Debug\ZatecAulas.exe
+C:\Repository\projetoCsharp\ZatecAulas\bin\Debug\ZatecAulas.pdb
+C:\Repository\projetoCsharp\ZatecAulas\obj\Debug\ZatecAulas.csproj.AssemblyReference.cache
+C:\Repository\projetoCsharp\ZatecAulas\obj\Debug\ZatecAulas.csproj.CoreCompileInputs.cache
+C:\Repository\projetoCsharp\ZatecAulas\obj\Debug\ZatecAulas.exe
+C:\Repository\projetoCsharp\ZatecAulas\obj\Debug\ZatecAulas.pdb
