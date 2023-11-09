@@ -1,0 +1,16 @@
+C:\Repository\projetoCsharp\MyFirstForm\bin\Debug\net6.0-windows\MyFirstForm.exe
+C:\Repository\projetoCsharp\MyFirstForm\bin\Debug\net6.0-windows\MyFirstForm.deps.json
+C:\Repository\projetoCsharp\MyFirstForm\bin\Debug\net6.0-windows\MyFirstForm.runtimeconfig.json
+C:\Repository\projetoCsharp\MyFirstForm\bin\Debug\net6.0-windows\MyFirstForm.dll
+C:\Repository\projetoCsharp\MyFirstForm\bin\Debug\net6.0-windows\MyFirstForm.pdb
+C:\Repository\projetoCsharp\MyFirstForm\obj\Debug\net6.0-windows\MyFirstForm.csproj.GenerateResource.cache
+C:\Repository\projetoCsharp\MyFirstForm\obj\Debug\net6.0-windows\MyFirstForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\projetoCsharp\MyFirstForm\obj\Debug\net6.0-windows\MyFirstForm.AssemblyInfoInputs.cache
+C:\Repository\projetoCsharp\MyFirstForm\obj\Debug\net6.0-windows\MyFirstForm.AssemblyInfo.cs
+C:\Repository\projetoCsharp\MyFirstForm\obj\Debug\net6.0-windows\MyFirstForm.csproj.CoreCompileInputs.cache
+C:\Repository\projetoCsharp\MyFirstForm\obj\Debug\net6.0-windows\MyFirstForm.dll
+C:\Repository\projetoCsharp\MyFirstForm\obj\Debug\net6.0-windows\refint\MyFirstForm.dll
+C:\Repository\projetoCsharp\MyFirstForm\obj\Debug\net6.0-windows\MyFirstForm.pdb
+C:\Repository\projetoCsharp\MyFirstForm\obj\Debug\net6.0-windows\MyFirstForm.genruntimeconfig.cache
+C:\Repository\projetoCsharp\MyFirstForm\obj\Debug\net6.0-windows\ref\MyFirstForm.dll
+C:\Repository\projetoCsharp\MyFirstForm\obj\Debug\net6.0-windows\MyFirstForm.MyNewForm.resources

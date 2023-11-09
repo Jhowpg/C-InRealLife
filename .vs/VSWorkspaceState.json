@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MyFirstForm"
   ],
-  "SelectedNode": "\\C:\\Repository\\projetoCsharp",
+  "SelectedNode": "\\MyFirstForm\\Form1.resx",
   "PreviewInSolutionExplorer": false
 }
